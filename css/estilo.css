@@ -1,0 +1,1121 @@
+#page-top #mainNav .container #navbarResponsive .navbar-nav.ml-auto .nav-item {
+    font-size: 16px;
+  }
+  
+  #page-top #about #accordion .panel.panel-default #collapseOne .panel-body p {
+    font-size: 16px;
+    color: #999999;
+  }
+  
+  #page-top #about #accordion .panel.panel-default #collapseThree .panel-body p {
+    font-size: 16px;
+    color: #999999;
+  }
+  
+  body,
+  td,
+  th {
+    font-family: "Lato", sans-serif;
+    color: #666;
+  }
+  .btn-descarga{
+    font-size: 40px;
+    background: #DD4B1A;
+    padding: 15px 30px 15px 30px;
+    font-weight: bolder;
+    color: white;
+    border-radius: 30px;
+  }
+  .btn-descarga:hover{
+    font-size: 40px;
+    background: white;
+    padding: 15px 30px 15px 30px;
+    font-weight: bolder;
+    color: #DD4B1A;
+    border-radius: 30px;
+  }
+
+  .navbar-nav {
+    justify-content: space-evenly;
+  }
+  
+  .container {
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .seccion-bajada {
+    text-align: -webkit-center;
+    margin-top: 15px;
+  }
+  .bajada {
+    font-weight: 600;
+    font-size: 22px;
+  }
+  .ico-bajada {
+    position: relative;
+    z-index: 1000;
+  }
+  .img-bg {
+    background-color: #fff;
+    margin: 15px;
+  }
+  .texto-bajada {
+    border: 1px #42c0ec solid;
+    border-radius: 4px;
+    padding: 30px;
+  }
+  
+  .plus {
+    font-size: 1em;
+    color: #42c0ec;
+  }
+  
+  .plus .fa-chevron-circle-right:before {
+    content: "\f13a";
+  }
+  
+  .collapsed .plus .fa-chevron-circle-right:before {
+    content: "\f138";
+  }
+  
+  .panel-default {
+    padding: 15px 30px;
+  }
+  
+  .panel-default > .panel-heading {
+    color: #008cb0;
+    border-bottom: 1px #42c0ec solid;
+    margin-bottom: 20px;
+    padding: 10px;
+    font-weight: 600;
+    text-align: left;
+  }
+  
+  .panel-default1 > .panel-heading1 {
+    color: white;
+    background-color: #0095b3;
+    border-color: #0095b3;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-weight: 600;
+    text-align: center;
+  }
+  
+  .innovarteca-logo-footer {
+    max-width: 100px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+  }
+  
+  .temas {
+    color: #6a7e9d;
+  }
+  /* a{
+      color: white;
+  }
+  a:hover{
+      color: #a10840!important;
+  } */
+  
+  .btn-autotest:hover {
+    color: #a10840!important;
+    background-color: white!important;
+    border: 2px solid #a10840!important;
+  }
+  
+  .btn-autot:hover {
+    color: #a10840!important;
+    background-color: white!important;
+    border: 2px solid #a10840!important;
+  }
+  
+  .btn-carnet:hover {
+    color: #a10840!important;
+    background-color: white!important;
+    border: 2px solid #a10840!important;
+  }
+  
+  /*Desde acá se cargo 29/05*/
+  .rosa {
+    color: #a10840;
+  }
+  
+  p {
+    color: #444243;
+  }
+  
+  .btn-autotest {
+    text-align: center;
+    color: #fff;
+    background-color: #a0073f;
+    border-color: #a0073f;
+    border-radius: 10px;
+    display: inline-block;
+    font-weight: 600;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    padding: 15px 80px;
+    font-size: 2rem;
+    letter-spacing: 1px;
+  }
+  
+  .center {
+    text-align: center;
+    color: #444243;
+  }
+  
+  .programa {
+    padding-top: 50px;
+    padding-bottom: 20px;
+  }
+  
+  .rosa_prog  {
+    color: #a0073f;
+    font-weight: 900;
+    font-size: 20px;
+  }
+  footer a{
+    color: white;
+  }
+  a:hover {
+    color: #DD4B1A;
+    
+  }
+  
+  .rosa_accion {
+    color: #a0073f;
+    font-weight: 900;
+    font-size: 18px;
+  }
+  
+  .btn-autot {
+    text-align: center;
+    color: #fff;
+    background-color: #a0073f;
+    border-color: #a0073f;
+    border-radius: 10px;
+    display: inline-block;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    padding: 3px 35px;
+    font-size: 1rem;
+    letter-spacing: 1px;
+  }
+  
+  .btn-carnet {
+    text-align: center;
+    color: #fff;
+    background-color: #a0073f;
+    border-color: #a0073f;
+    border-radius: 10px;
+    display: inline-block;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    padding: 3px 35px;
+    font-size: 1rem;
+    letter-spacing: 1px;
+  }
+  
+  .btn-primary:not([disabled]):not(.disabled).active, .btn-primary:not([disabled]):not(.disabled):active, .show>.btn-primary.dropdown-toggle {
+    color: #fff;
+    background-color: #a0073f !important;
+    border-color: #a0073f !important;
+    box-shadow: 0 0 0 0.2rem rgba(255, 112, 167, 0.5) !important;
+  }
+  .btn-primary:hover {
+    color: #fff;
+    background-color: #a0073f !important;
+    border-color: #a0073f !important;
+    box-shadow: 0 0 0 0.2rem rgba(255, 112, 167, 0.5) !important;
+  }
+  
+  /*hasta acá se cargo 29/05*/
+  
+  .degradado {
+    background-image: url(../imagenes/header-background.svg);
+    /* background-color: #a0073f; */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+  }
+  .img-fondo {
+    background-position: center right;
+    background-repeat: no-repeat;
+    height: 220px;
+  }
+  .navbar {
+      background-color: #e4e6e5;
+      background-color: rgba( 0, 0, 0, .85 );
+      border-bottom: 0 none;
+      font-size: 12px;
+      transition: .25s all linear;
+  }
+  
+  .navbar.inv {
+      background-color: rgba( 0, 0, 0, .5 );
+      border-bottom: 1px solid #bfbfbf;
+  }
+  
+  .navbar .nav a {
+      color: white;
+      font-family: "Titillium Web", sans-serif;
+      font-weight: 600;
+      transition: all .5 linear;
+  }
+  
+  .navbar.inv a {
+      color: #e4e6e5;
+  }
+  
+  
+  .navbar-responsive-collapse {
+      margin: 0 auto;
+      width: 80%;
+  }
+  
+  .nav li {
+      text-align: center;
+      white-space: nowrap;
+  }
+  
+  .nav > li > a:hover,
+  .nav > li > a:focus {
+      background-color: inherit;
+      outline: none;
+  }
+  
+  .navbar-brand {
+      padding: 8px;
+  }
+  
+  .active-menu {
+      background-color: white;
+      content: '.';
+      display: block;
+      height: 5px;
+      left: 0;
+      position: absolute;
+      top: 0;
+      transition: all .5 linear;
+      width: 1%;
+      z-index: 9;
+  }
+  
+  .inv .active-menu {
+      background-color: #e4e6e5;
+  }
+  
+  .special-active-menu {
+      z-index: 10;
+  }
+  
+  #special-active-menu-1,
+  #special-active-menu-6 {
+      background-color: #2f2f2f !important;
+  }
+  
+  #special-active-menu-2 {
+      background-color: #F7D08A !important;
+  }
+  
+  #special-active-menu-3 {
+      background-color: #f09764 !important;
+  }
+  
+  #special-active-menu-4 {
+      background-color: #DD4B1A !important;
+  }
+  
+  #special-active-menu-5 {
+      background-color: #EF271B !important;
+  }
+  
+  .importa {
+    text-align: center;
+    color: #7cbae0;
+    padding: 20px;
+    border-top: 2px solid #4bb3ab;
+    border-bottom: 2px solid #4bb3ab;
+  }
+  .degradado-invertido {
+    background-image: linear-gradient(
+      340deg,
+      rgba(66, 192, 236, 1) 0%,
+      rgba(82, 187, 181, 1) 60%
+    );
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .caja-contenedora {
+    width: 100%;
+    height: auto;
+  }
+  
+  .logo-innovarteca {
+    margin-top: 8%;
+    width: 50%;
+    top: 35%;
+    -ms-transform: translateY(35%);
+    transform: translateY(35%);
+  }
+  .logo-campa{
+    height: 100%;
+    margin-top: -6%;
+    
+  }
+  .fondo {
+    background-image: url(../img/fondo.svg);
+  }
+  
+  .incon {
+    width: 5%;
+    height: auto;
+  }
+  
+  .caja {
+    margin-top: 15px;
+    border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    padding: 20px;
+    background: #fff;
+    border: 1px solid #b8b8b8;
+  }
+  
+  .tit {
+    text-align: center;
+  }
+  h3 {
+    padding: 20px 0px 30px 0px;
+  }
+  .misccuidarnos {
+    width: 295px;
+    height: 4px;
+    border: 1px solid #a10840;
+    border-radius: 10px;
+    margin-top: -20px;
+  }
+  .miscprograma {
+    width: 225px;
+    height: 4px;
+    border: 1px solid #a10840;
+    border-radius: 10px;
+    margin-top: -20px;
+    margin-left: 10px;
+  }
+  .miscacciones {
+    width: 160px;
+    height: 4px;
+    border: 1px solid #a10840;
+    border-radius: 10px;
+    margin-top: -20px;
+  }
+  .misccontacto {
+    width: 170px;
+    height: 4px;
+    border: 1px solid #a10840;
+    border-radius: 10px;
+    margin-top: -20px;
+  }
+  form{
+    border-radius: 10px;
+    color: white;
+    font-size: 1.5rem;
+  }
+  form label{
+    border-radius: 10px;
+    color: white;
+    font-size: 1.5rem;
+  }
+  form p {
+    color: white;
+    font-size: 1.5rem;
+  }
+  form .form-row input{
+    border-radius: 15px;
+    margin-bottom: 25px;
+    font-size: 1.5rem;
+  }
+  form .form-row textarea {
+    margin-bottom: 25px;
+      border-radius: 15px;
+      font-size: 1.5rem;
+  }
+  textarea{
+    resize: none;
+    height: 150px;
+  }
+  .form-row{
+    padding-top:20px;
+  }
+  .titulo-seccion h2{
+    padding: 10px;
+    color: #a10840;
+    font-weight: 950;
+  }
+  .titulo-subseccion {
+    background: #008cb0;
+    padding: 10px;
+    color: #fff;
+  }
+  .titulo-subseccion h5 {
+    border-left: 1px solid white;
+    font-weight: 400 !important;
+    margin: 0px;
+    margin-left: -10px;
+    padding-left: 10px;
+  }
+  .ico-seccion {
+    width: 50%;
+    text-align: right;
+    background-image: linear-gradient(to right, #f4f4f400 0%, #f4f4f4 75%);
+  }
+  .ico-seccion-grupos {
+    width: 60%;
+    text-align: right;
+    background-image: linear-gradient(to right, #ffffff00 0%, #fff 20%);
+  }
+  .ico-seccion-grupos img {
+    margin-top: 34px;
+  }
+  
+  .bg-seccion {
+    border-left: 20px #008cb0 double;
+    font-size: 0.9em;
+    width: 100%;
+    margin-top: 70px;
+    padding: 0px;
+    /*background-image: linear-gradient(to right, #008cb0 20%, #FFF 35%);*/
+  }
+  .tit-seccion {
+    border-left: 6px #fff solid;
+    text-align: left;
+    font-size: 0.9em;
+    width: 100%;
+    padding: 10px 12px;
+    color: #fff;
+    background-image: linear-gradient(to right, #008cb0 40%, #fff 90%);
+  }
+  .img-seccion {
+    overflow: visible;
+    padding-bottom: 0px;
+  }
+  
+  .rrss {
+    width: 25px;
+    height: 25px;
+    padding: 5px;
+  }
+  
+  .md-logo {
+    max-width: 200px;
+    margin-left: 20px;
+    /*margin-top: 20px;*/
+  }
+  
+  .control-compacto {
+    border: 1px solid #bdbdbd;
+    border-radius: 0;
+  }
+  
+  #vacunatorios table {
+    font-size: 0.8rem !important;
+    margin: 11px;
+  }
+  
+  #vacunatorios th {
+    border-bottom: 1px solid #008cb0 !important;
+    border-top: 1px solid #008cb0 !important;
+  }
+  #vacunatorios th.naranja {
+    border-bottom: 1px solid #f57900 !important;
+    border-top: 1px solid #f57900 !important;
+  }
+  
+  #movilidad {
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 0.9rem;
+    /*border: 1px solid #a1a1a1;*/
+    background-color: white;
+    border-radius: 12px;
+  }
+  
+  #vacum {
+    padding-top: 3%;
+    padding-bottom: 3%;
+  }
+  
+  #requisitos {
+    margin-top: 0;
+    padding-top: 3%;
+    padding-bottom: 3%;
+  }
+  
+  .header-img {
+    float: left;
+    width: 72%;
+    height: auto;
+  }
+  .tit-cobertura {
+    width: 60%;
+    /*border-top: 2px #008cb0 solid;
+          border-bottom: 2px #008cb0 solid;*/
+    padding: 10px 0 !important;
+  }
+  .tit-cobertura hr {
+    border: 0;
+    height: 2px;
+    text-align: center;
+    background-image: linear-gradient(to right, #008cb0 20%, #fff 100%);
+  }
+  
+  #detalle-riesgo {
+    border: 1px #49c0b6 solid;
+    background: #f7f7f7;
+    padding: 10px;
+  }
+  
+  .inforequisito {
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-bottom: 10%;
+  }
+  
+  .inforequisito1 {
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-bottom: 10%;
+  }
+  
+  .persona {
+    z-index: 1;
+  }
+  
+  .persona1 {
+    width: 30%;
+    float: left;
+    height: auto;
+    margin-top: -20%;
+  }
+  
+  .infopersona {
+    background: rgb(0, 149, 179);
+    background: linear-gradient(
+      90deg,
+      rgba(0, 149, 179, 1) 0%,
+      rgba(0, 149, 179, 1) 95%,
+      rgba(0, 149, 179, 0) 100%
+    );
+    height: auto;
+    color: white;
+    text-align: center;
+    margin-top: 70px;
+    padding-top: 20px;
+    font-weight: 700;
+    font-size: 18px;
+    padding: 15px 20px 15px 20px;
+  }
+  
+  .infopersona1 {
+    background: rgb(73, 192, 182);
+    background: linear-gradient(
+      90deg,
+      rgba(73, 192, 182, 0) 0%,
+      rgba(73, 192, 182, 1) 5%,
+      rgba(73, 192, 182, 1) 100%
+    );
+    height: auto;
+    color: white;
+    text-align: center;
+    margin-top: 70px;
+    padding-top: 20px;
+    font-weight: 700;
+    font-size: 18px;
+    padding: 15px 20px 15px 20px;
+  }
+  
+  .infopersona2 {
+    background: rgb(41, 195, 236);
+    background: linear-gradient(
+      90deg,
+      rgba(41, 195, 236, 1) 0%,
+      rgba(41, 195, 236, 1) 95%,
+      rgba(41, 195, 236, 0) 100%
+    );
+    height: auto;
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+    padding-top: 20px;
+    font-weight: 700;
+    font-size: 18px;
+    padding: 15px 20px 15px 20px;
+  }
+  
+  .infopersona3 {
+    background: rgb(0, 149, 179);
+    background: linear-gradient(
+      90deg,
+      rgba(0, 149, 179, 0) 0%,
+      rgba(0, 149, 179, 1) 5%,
+      rgba(0, 149, 179, 1) 100%
+    );
+    height: auto;
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+    padding-top: 20px;
+    font-weight: 700;
+    font-size: 18px;
+    padding: 15px 20px 15px 20px;
+  }
+  
+  .infopersona4 {
+    background: rgb(73, 192, 182);
+    background: linear-gradient(
+      90deg,
+      rgba(73, 192, 182, 1) 0%,
+      rgba(73, 192, 182, 1) 95%,
+      rgba(73, 192, 182, 0) 100%
+    );
+    height: auto;
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+    padding-top: 20px;
+    font-weight: 700;
+    font-size: 18px;
+    padding: 15px 20px 15px 20px;
+  }
+  
+  .infopersona5 {
+    background: rgb(41, 195, 236);
+    background: linear-gradient(
+      90deg,
+      rgba(41, 195, 236, 0) 0%,
+      rgba(41, 195, 236, 1) 5%,
+      rgba(41, 195, 236, 1) 100%
+    );
+    height: auto;
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+    padding-top: 20px;
+    font-weight: 700;
+    font-size: 18px;
+    padding: 15px 20px 15px 20px;
+  }
+  
+  .caja-contenedora-desktop {
+    display: block;
+  }
+  
+  .caja-contenedora-mobile {
+    display: none;
+  }
+  
+  .caja-faq div {
+    display: table-cell;
+  }
+  
+  .texto-invisible {
+    display: none !important;
+  }
+  
+  .espaciado-v-20 {
+    padding: 20px 0px;
+  }
+  
+  .panel-body {
+    padding-bottom: 20px;
+  }
+  
+  .acordeon {
+    color: #008cb0;
+    outline: 0;
+    width: 100%;
+  }
+  
+  .acordeon:hover {
+    color: #42c0ec;
+    outline: 0;
+  }
+  
+  .acordeon:active {
+    color: #008cb0;
+    outline: 0;
+  }
+  
+  .acordeon:focus {
+    color: #008cb0;
+    outline: 0;
+  }
+  
+  footer.footer-innovarteca {
+    background: black;
+    color: white;
+  }
+  
+  footer.footer-innovarteca .container .row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  footer.footer-innovarteca .container,
+  footer.mindef .container {
+    width: 97%;
+    text-align: center;
+  }
+  footer.footer-innovarteca p {
+    color: lightgrey;
+    font-size: 13px;
+    letter-spacing: 1px;
+  }
+  footer.footer-innovarteca p img {
+    max-width: 24px;
+    max-height: 24px;
+  }
+  footer.footer-innovarteca .fa {
+    display: inline-block;
+    font-size: 22px;
+    text-rendering: auto;
+    color: #fff;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  footer.footer-innovarteca .mapa {
+    color: white;
+  }
+  
+  .titul {
+    color: #29c3ec;
+  }
+  
+  .scroll-top {
+    position: fixed;
+    z-index: 1049;
+    right: 2%;
+    bottom: 2%;
+    width: 50px;
+    height: 50px;
+  }
+  
+  .scrollUP{
+    color: white;
+    background-color: #a0073f;
+    border-color: #a0073f;
+  }
+  
+  /* --------- */
+  /* MEDIA 991 */
+  /* --------- */
+  
+  @media (max-width: 991px) {
+    .logo-innovarteca {
+      width: 60%;
+      top: 35%;
+      -ms-transform: translateY(35%);
+      transform: translateY(35%);
+    }
+  
+    .logo-campa{
+      height: 100%;
+      
+    }
+  
+    .degradado {
+      height: 140px;
+    }
+  
+    .img-fondo {
+      background-image: none;
+    }
+  
+    #mainNav {
+      -webkit-transition: padding-top 0.3s, padding-bottom 0.3s;
+      -moz-transition: padding-top 0.3s, padding-bottom 0.3s;
+      transition: padding-top 0.3s, padding-bottom 0.3s;
+      -webkit-box-shadow: 0px 2px 3px 0px rgba(50, 50, 50, 0.39);
+      -moz-box-shadow: 0px 2px 3px 0px rgba(50, 50, 50, 0.39);
+      box-shadow: 0px 2px 3px 0px rgba(50, 50, 50, 0.39);
+    }
+  
+    #mainNav .navbar-brand {
+      font-size: 2em;
+      -webkit-transition: all 0.3s;
+      -moz-transition: all 0.3s;
+      transition: all 0.3s;
+    }
+  
+    #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
+      border-bottom: 4px solid #a10840;
+    }
+  
+    #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active,
+    #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus,
+    #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
+      color: #a10840;
+      border-bottom: 4px solid #a10840;
+    }
+  
+    #mainNav.navbar-shrink {
+      padding-top: 0px;
+      padding-bottom: 0px;
+      -webkit-box-shadow: 0px 2px 3px 0px rgba(50, 50, 50, 0.39);
+      -moz-box-shadow: 0px 2px 3px 0px rgba(50, 50, 50, 0.39);
+      box-shadow: 0px 2px 3px 0px rgba(50, 50, 50, 0.39);
+    }
+  
+    #mainNav.navbar-shrink .navbar-brand {
+      font-size: 1.5em;
+    }
+    header.masthead {
+      padding-top: 100px;
+      padding-bottom: 2%;
+      text-align: center;
+      color: #fff;
+      background-color: #ffffff;
+    }
+    .ico-seccion-grupos {
+      background-image: linear-gradient(to right, #ffffff00 0%, #fff 2%);
+    }
+  }
+  
+  /* --------- */
+  /* MEDIA 760 */
+  /* --------- */
+  
+  @media screen and (max-width: 760px) {
+    .img-fondo {
+      height: auto;
+    }
+  
+    .logo-innovarteca {
+      width: 80%;
+      top: 35%;
+      -ms-transform: translateY(35%);
+      transform: translateY(35%);
+    }
+    .logo-campa{
+      height: 125%;
+      /* margin-top: -25px; */
+    }
+  
+    .btn-autotest {
+      text-align: center;
+      color: #fff;
+      background-color: #a0073f;
+      border-color: #a0073f;
+      border-radius: 10px;
+      display: inline-block;
+      font-weight: 600;
+      white-space: nowrap;
+      vertical-align: middle;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+      padding: 10px 50px;
+      font-size: 2rem;
+      letter-spacing: 1px;
+    }
+  
+    .misccuidarnos {
+      width: 190px;
+      height: 4px;
+      border: 1px solid #a10840;
+      border-radius: 10px;
+      margin-top: -20px;
+  }
+  
+    section {
+      padding: 0px 0px !important;
+    }
+    .caja-contenedora-desktop {
+      display: none;
+    }
+  
+    .caja-contenedora-mobile {
+      display: block;
+    }
+  
+    .innovarteca-logo-footer {
+      max-width: 200px;
+      margin-bottom: 25px;
+    }
+  
+    .juego-desktop {
+      display: none;
+    }
+  
+    .juego-mobile {
+      display: block;
+    }
+  
+    .infopersona {
+      background: #0095b3;
+      height: auto;
+      color: white;
+      text-align: center;
+      margin-top: -5px;
+      margin-bottom: 20px;
+      font-weight: 700;
+      font-size: 18px;
+      padding: 15px 20px 15px 20px;
+    }
+  
+    .infopersona1 {
+      background: #49c0b6;
+      height: auto;
+      color: white;
+      text-align: center;
+      margin-top: -5px;
+      margin-bottom: 20px;
+      padding-top: 20px;
+      font-weight: 700;
+      font-size: 18px;
+      padding: 15px 20px 15px 20px;
+    }
+  
+    .infopersona2 {
+      background: #29c3ec;
+      height: auto;
+      color: white;
+      text-align: center;
+      margin-top: -5px;
+      margin-bottom: -20px;
+      padding-top: 20px;
+      font-weight: 700;
+      font-size: 18px;
+      padding: 15px 20px 15px 20px;
+    }
+  
+    .infopersona3 {
+      background: #0095b3;
+      height: auto;
+      color: white;
+      text-align: center;
+      margin-top: -18px;
+      margin-bottom: 20px;
+      padding-top: 20px;
+      font-weight: 700;
+      font-size: 18px;
+      padding: 15px 20px 15px 20px;
+    }
+  
+    .infopersona4 {
+      background: #49c0b6;
+      height: auto;
+      color: white;
+      text-align: center;
+      margin-top: -5px;
+      margin-bottom: 20px;
+      padding-top: 20px;
+      font-weight: 700;
+      font-size: 18px;
+      padding: 15px 20px 15px 20px;
+    }
+  
+    .infopersona5 {
+      background: #29c3ec;
+      height: auto;
+      color: white;
+      text-align: center;
+      margin-top: -5px;
+      margin-bottom: 20px;
+      padding-top: 20px;
+      font-weight: 700;
+      font-size: 18px;
+      padding: 15px 20px 15px 20px;
+    }
+    .ico-seccion-grupos img {
+      margin-top: 40px;
+    }
+    .ico-seccion {
+      background-image: linear-gradient(to right, #f4f4f400 0%, #f4f4f4 45%);
+    }
+  }
+  
+  /* --------- */
+  /* MEDIA 575 */
+  /* --------- */
+  
+  @media screen and (max-width: 575px) {
+    .logo-innovarteca {
+      width: 80%;
+      margin-top: 5px;
+      top: 35%;
+      -ms-transform: translateY(35%);
+      transform: translateY(35%);
+    }
+  
+    /* .logo-campa{
+      height: 125%;
+      
+    } */
+  
+    .degradado {
+      height: 100px;
+    }
+    
+    .enlace-top {
+      padding-top: 315px !important;
+    }
+  
+    .enlace-invisible {
+      display: none !important;
+    }
+  
+    .reposicionar-fondo {
+      background-position-y: 10px !important;
+    }
+  
+    .innovarteca-logo-footer {
+      max-width: 150px;
+      margin-bottom: 25px;
+    }
+    .innovarteca img {
+      width: 60%;
+      height: auto;
+    }
+    #mainNav {
+      background: #f0cad5;
+    }
+    .masthead {
+      background: #ffffff;
+    } /* este color se cambiar porq cuando esta en celular queda con otro color de fondo*/
+    .masthead .container {
+      padding: 60px 0 0 0;
+    }
+    #portfolio {
+      border-top: 1px solid #fff !important;
+    }
+    .navbar-shrink .navbar-collapse {
+      padding: 10px 30px 10px !important;
+    }
+  }
+  
